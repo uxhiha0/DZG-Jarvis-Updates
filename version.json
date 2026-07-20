@@ -1,6 +1,6 @@
 {
-  "version": "1.8.7",
-  "zip_url": "https://raw.githubusercontent.com/uxhiha0/DZG-Jarvis-Updates/main/DZG_JARVIS_V1_8_7.zip",
-  "sha256": "5b32897656d5f6f7d4e3103ec9fad41a9e3df9acc91eb997785e9af715803b44",
-  "changelog": "V1.8.7 Full Server Member Pool: Random Fake Ban now targets the full Discord member list instead of only recently active users. Bots are excluded and staff exclusion remains configurable."
+  "version": "1.8.8",
+  "zip_url": "https://raw.githubusercontent.com/uxhiha0/DZG-Jarvis-Updates/main/DZG_JARVIS_V1_8_8.zip",
+  "sha256": "d9631b6dea47ebf746c94b8a22884689fead4c57bca701f0cf004138bd23b305",
+  "changelog": "V1.8.8 Owner + Dashboard Access: Jarvis commands are restricted to the server owner and members with roles explicitly approved in the dashboard."
 }
