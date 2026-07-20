@@ -1,6 +1,6 @@
 {
   "version": "1.8.10",
-  "zip_url": "https://raw.githubusercontent.com/uxhiha0/DZG-Jarvis-Updates/refs/heads/main/version.json?v=183",
+  "zip_url": "https://raw.githubusercontent.com/uxhiha0/DZG-Jarvis-Updates/main/DZG_JARVIS_V1_8_10.zip",
   "sha256": "e43e05cce95374404f84157a0c6a805a69767c5520fe32479214e1e08318b592",
   "changelog": "V1.8.10 Dashboard Recovery: fixes the dashboard-wide Internal Server Error caused by the Dashboard Access Roles template."
 }
