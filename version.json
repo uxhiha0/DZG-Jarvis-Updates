@@ -1,6 +1,6 @@
 {
-  "version": "1.8.8",
-  "zip_url": "https://raw.githubusercontent.com/uxhiha0/DZG-Jarvis-Updates/main/DZG_JARVIS_V1_8_8.zip",
-  "sha256": "d9631b6dea47ebf746c94b8a22884689fead4c57bca701f0cf004138bd23b305",
-  "changelog": "V1.8.8 Owner + Dashboard Access: Jarvis commands are restricted to the server owner and members with roles explicitly approved in the dashboard."
+  "version": "1.8.9",
+  "zip_url": "https://raw.githubusercontent.com/uxhiha0/DZG-Jarvis-Updates/main/DZG_JARVIS_V1_8_9.zip",
+  "sha256": "30608c7d7033a03878b29571b3d8e8bf886d7e3c6cec64c4b62c5e8dbd71555c",
+  "changelog": "V1.8.9 Dashboard Recovery Patch: fixes the V1.8.8 Internal Server Error caused by Dashboard Access role configuration loading and saving."
 }
