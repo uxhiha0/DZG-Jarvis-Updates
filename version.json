@@ -1,6 +1,6 @@
 {
-  "version": "1.8.0",
-  "zip_url": "https://example.com/DZG_JARVIS_V1_8_0.zip",
-  "sha256": "",
-  "changelog": "DZG Jarvis V1.8 is currently up to date."
+  "version": "1.8.1",
+  "zip_url": "https://raw.githubusercontent.com/uxhiha0/DZG-Jarvis-Updates/main/DZG_JARVIS_V1_8_1.zip",
+  "sha256": "c3d308cf38ff310e15e04096a72cb62a621ded5264b7506f0bc3420d626503b5",
+  "changelog": "V1.8.1 Auto-Update Verification Build: tests one-click updating, automatic backups, protected settings, and automatic restart."
 }
