@@ -1,6 +1,6 @@
 {
-  "version": "1.8.6",
-  "zip_url": "https://raw.githubusercontent.com/uxhiha0/DZG-Jarvis-Updates/main/DZG_JARVIS_V1_8_6.zip",
-  "sha256": "1bba6b8aea51aa8a38ddf26d63a0492b088777a0954dfd184f6081031c3062cc",
-  "changelog": "V1.8.6 Rapid Update Detection: automatic checks every 60 seconds and dashboard-triggered update refreshes every 10 seconds."
+  "version": "1.8.7",
+  "zip_url": "https://raw.githubusercontent.com/uxhiha0/DZG-Jarvis-Updates/main/DZG_JARVIS_V1_8_7.zip",
+  "sha256": "5b32897656d5f6f7d4e3103ec9fad41a9e3df9acc91eb997785e9af715803b44",
+  "changelog": "V1.8.7 Full Server Member Pool: Random Fake Ban now targets the full Discord member list instead of only recently active users. Bots are excluded and staff exclusion remains configurable."
 }
