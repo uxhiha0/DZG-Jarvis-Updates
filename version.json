@@ -1,6 +1,6 @@
 {
-  "version": "1.8.4",
-  "zip_url": "https://raw.githubusercontent.com/uxhiha0/DZG-Jarvis-Updates/main/DZG_JARVIS_V1_8_4.zip",
-  "sha256": "5d9863ec696abd68724b65d586e01d0e6be79a10ab13037ffeabebd843853586",
-  "changelog": "V1.8.4 Seamless Restart: adds an automatic reconnect screen so the dashboard returns by itself after Jarvis updates and restarts."
+  "version": "1.8.5",
+  "zip_url": "https://raw.githubusercontent.com/uxhiha0/DZG-Jarvis-Updates/main/DZG_JARVIS_V1_8_5.zip",
+  "sha256": "8ff7b66e429cdcf36cc4c952961d845c49358f5262abe43476bacfc717b66610",
+  "changelog": "V1.8.5 Seamless Update Verification Build: tests the automatic updating screen, restart monitoring, and dashboard reconnection flow."
 }
